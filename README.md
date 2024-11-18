@@ -25,5 +25,16 @@
 ![image](https://github.com/user-attachments/assets/ea12e84b-ad59-46d3-bf45-863c5d6a5933)
 
 
+### Perform Formating and adding Slicer
+1. Changed the color of the font
+2. Added a slicer based on Year
+   
+![image](https://github.com/user-attachments/assets/139ac456-5e3e-44ea-b49d-5071fcaf9fc6)
+
+### Create Matrix and Donut Charts
+1. Add Charts to visualize the various components of expense and savings
+2. Display a matrix to get the exact value of expense, savings and income
+
+![image](https://github.com/user-attachments/assets/01066754-2081-4d23-960a-eb13722cf02e)
 
 
